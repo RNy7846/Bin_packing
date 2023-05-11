@@ -1,0 +1,166 @@
+{
+    "box": [
+        {
+            "name": "teste",
+            "WHD": [
+                589,
+                235,
+                238
+            ],
+            "weight": 28080,
+            "openTop": [
+                1,
+                2
+            ],
+            "coner": 15
+        },
+        {
+            "name": "caminhão",
+            "WHD": [
+                1203,
+                235,
+                238
+            ],
+            "weight": 26480,
+            "openTop": [
+                1,
+                2
+            ],
+            "coner": 15
+        },
+        {
+            "name": "f-4000",
+            "WHD": [
+                1203,
+                235,
+                269
+            ],
+            "weight": 26280,
+            "openTop": [
+                1,
+                2
+            ],
+            "coner": 15
+        },
+        {
+            "name": "Mercedes-benz",
+            "WHD": [
+                1355,
+                235,
+                270
+            ],
+            "weight": 27800,
+            "openTop": [
+                1
+            ],
+            "coner": 15
+        }
+    ],
+    "item": [
+        {
+            "name": "Elástico",
+            "WHD": [
+                170,
+                82,
+                46
+            ],
+            "count": 15,
+            "updown": 1,
+            "type": 1,
+            "level": 0,
+            "loadbear": 100,
+            "weight": 85,
+            "color": 1
+        },
+        {
+            "name": "Caixa",
+            "WHD": [
+                85,
+                60,
+                60
+            ],
+            "count": 18,
+            "updown": 1,
+            "type": 1,
+            "level": 0,
+            "loadbear": 100,
+            "weight": 30,
+            "color": 2
+        },
+        {
+            "name": "DPA",
+            "WHD": [
+                60,
+                80,
+                200
+            ],
+            "count": 15,
+            "updown": 1,
+            "type": 1,
+            "level": 0,
+            "loadbear": 10,
+            "weight": 30,
+            "color": 3
+        },
+        {
+            "name": "Tecido",
+            "WHD": [
+                70,
+                100,
+                30
+            ],
+            "count": 42,
+            "updown": 1,
+            "type": 1,
+            "level": 0,
+            "loadbear": 100,
+            "weight": 20,
+            "color": 4
+        },
+        {
+            "name": "Bojo",
+            "WHD": [
+                80,
+                80,
+                120
+            ],
+            "count": 100,
+            "updown": 0,
+            "type": 2,
+            "level": 0,
+            "loadbear": 50,
+            "weight": 170,
+            "color": 5
+        },
+        {
+            "name": "Acessório",
+            "WHD": [
+                60,
+                40,
+                50
+            ],
+            "count": 80,
+            "updown": 1,
+            "type": 1,
+            "level": 0,
+            "loadbear": 40,
+            "weight": 30,
+            "color": 6
+        },
+        {
+            "name": "Viés",
+            "WHD": [
+                152,
+                152,
+                75
+            ],
+            "count": 10,
+            "updown": 1,
+            "type": 1,
+            "level": 0,
+            "loadbear": 50,
+            "weight": 70,
+            "color": 7
+        }
+    ]
+}
